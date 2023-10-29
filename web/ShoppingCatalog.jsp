@@ -30,7 +30,7 @@
             <table border="1">
                 <tr>
                     <th>DVD Names</th>
-                    <th>Role</th>
+                    <th>Rate</th>
                     <th>Year</th>
                     <th>Price</th>
                     <th>Quantity</th>
